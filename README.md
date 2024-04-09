@@ -1,4 +1,4 @@
-## Rename Bot - Clone of  [AnyDLBot](https://telegram.dog/AnyDLBot)
+## Rename Bot - Clone of  [FL STUDIOE RENAMOR BOT](@FL_Studioe_Renamer_Bot)
 ---
 
 An Open Source Rename Telegram RoBot
@@ -17,7 +17,8 @@ An Open Source Rename Telegram RoBot
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy?template=https://github.com/erichdanikeninfo/TG-Rename-Bot/tree/master)
 
-**upgrade** your subscription for [@AnyDLBot](https://telegram.dog/AnyDLBot) without having to run anything on your own
+**upgrade** your subscription for [@OP-Rename-Bot
+](https://github.com/Aadhi000/OP-Rename-Bot) without having to run anything on your own
 
 #### The Hard Way
 
